@@ -4,9 +4,9 @@
 ### 🖥 Computer Science Undergraduate | Aspiring AI Engineer  | Software Engineering 
 
 ### About ME
-I am currently studying **Computer Science Specializes in AI**
-I have experience in **React , C# , Python , AI/ML**
-I am  working **Fullstack webdevelopment Projects**
+I am currently studying **Computer Science Specializes in AI.**
+I have experience in **React , C# , Python , AI/ML.**
+I am  working **Fullstack webdevelopment Projects.**
 Reach me at shanikamunasinge152@gmail.com
 
 
