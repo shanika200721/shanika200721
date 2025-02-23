@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi , I'm Shanika Munasinghe 
+### I'm Shanika Munasinghe 
 
 ### 🖥 Computer Science Undergraduate | Aspiring AI Engineer  | Software Engineering 
 
