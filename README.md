@@ -1,15 +1,26 @@
 ## Hi there 👋
+### Hi , I'm Shanika Munasinghe 
 
-**shanika200721/shanika200721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥 Computer Science Undergraduate | Aspiring AI Engineer  | Software Engineering 
 
-Here are some ideas to get you started:
+### About ME
+I am currently studying **Computer Science Spcialize in AI**
+I have experience in **React , C# , Python , AI/ML**
+I am  working **Fullstack webdevelopment Projects**
+Reach me at shanikamunasinge152@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Major Projects 
+
+
+### Mini Projects
+
+
+### Tech Stack 
+-languages : Python | Javascript | C | C#
+-Frame works & Tools : React | TailwindCSS | MySQL | Git 
+-AI/ML : Scikit-learn | Pandas |  Numpy 
+
+### Group Projects 
+Syber Security Learning Platform : **Safe cyber**
+
