@@ -14,7 +14,7 @@ Reach me at shanikamunasinge152@gmail.com
 
 
 ### Mini Projects
-
+1. sample web site - tesla web-page https://shanika200721.github.io/Tesla-sample-webpage/
 
 ### Tech Stack 
 -languages : Python | Javascript | C | C#
