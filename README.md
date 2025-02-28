@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java Script,CSS ,Python**
 
-- 📫 How to reach me **shanika.uok2@gmail.com**
+- 📫 How to reach me **shanikamunasinghe152@gmail.com**
 
 - ⚡ Fun fact **I ride the bicycle when I’m not coding**
 
