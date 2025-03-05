@@ -35,6 +35,7 @@
 ### Mini Projects
 1. PathFinder-plus-mentoring website - https://shanika200721.github.io/PathFinder_plus_officail_website/
 2. Sample website - Tesla webpage - https://shanika200721.github.io/Tesla-sample-webpage/
+3. Ques Application - https://shanika200721.github.io/Quize-Application/
 
 ### Group Projects
 Cybersecurity Learning Platform: **Safe Cyber**
