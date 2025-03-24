@@ -33,7 +33,7 @@
 ### Major Projects
 
 ### Mini Projects
-1.Portfolio - https://shanika200721.github.io/Portfolio/
+1. Portfolio - https://shanika200721.github.io/Portfolio/
 2. PathFinder-plus-mentoring website - https://shanika200721.github.io/PathFinder_plus_officail_website/
 3. Web Shopping Cart - https://shanika200721.github.io/Sample-Web-Shoping-cart/
 4. Sample website - Tesla webpage - https://shanika200721.github.io/Tesla-sample-webpage/
