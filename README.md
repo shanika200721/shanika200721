@@ -28,6 +28,14 @@
 <a href="https://stackoverflow.com/users/user:29689864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:29689864" height="30" width="40" /></a>
 <a href="https://kaggle.com/shanikamunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanikamunasinghe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kcz0agr0yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kcz0agr0yy" height="30" width="40" /></a>
+<a href="https://medium.com/@shanika.uok2" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+
+<a href="https://shanika200721.github.io/Portfolio/" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 ### Major Projects
