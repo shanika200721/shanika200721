@@ -92,6 +92,14 @@ Cybersecurity Learning Platform: **Safe Cyber**
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
 </a>
 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text-thumbnail.png" alt="express" width="80" height="60"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+</a>
+
+
 <p/>
 
 ### Tools 
