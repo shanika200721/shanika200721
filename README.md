@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React Js, MongoDB**
 
-- 💬 Ask me about **JavaScript, CSS, Python**
+- 💬 Ask me about **JavaScript, CSS, Python , SQL**
 
 - 📫 How to reach me **shanikamunasinghe152@gmail.com**
 
@@ -39,13 +39,13 @@
 </p>
 
 ### Major Projects
-
+ 
 ### Mini Projects
 1. Portfolio - https://shanika200721.github.io/Portfolio/
-2. PathFinder-plus-mentoring website - https://shanika200721.github.io/PathFinder_plus_officail_website/
+2. PathFinder-plus-mentoring website - 
+   https://shanika200721.github.io/PathFinder_plus_officail_website/
 3. Web Shopping Cart - https://shanika200721.github.io/Sample-Web-Shoping-cart/
-4. Sample website - Tesla webpage - https://shanika200721.github.io/Tesla-sample-webpage/
-5. Ques Application - https://shanika200721.github.io/Quize-Application/
+4. Ques Application - https://shanika200721.github.io/Quize-Application/
 
 ### Group Projects
 Cybersecurity Learning Platform: **Safe Cyber**
