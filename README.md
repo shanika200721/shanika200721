@@ -18,7 +18,8 @@
 
 - 💬 Ask me about **JavaScript, CSS, Python , SQL**
 
-- 📫 How to reach me **shanikamunasinghe152@gmail.com**
+- 📫 How to reach me **shanika.uok2@gmail.com**
+                      **https://shanika200721.github.io/Portfolio/**
 
 - ⚡ Fun fact **I ride the bicycle when I’m not coding**
 
@@ -37,18 +38,6 @@
 </a>
 
 </p>
-
-### Major Projects
- 
-### Mini Projects
-1. Portfolio - https://shanika200721.github.io/Portfolio/
-2. PathFinder-plus-mentoring website - 
-   https://shanika200721.github.io/PathFinder_plus_officail_website/
-3. Web Shopping Cart - https://shanika200721.github.io/Sample-Web-Shoping-cart/
-4. Ques Application - https://shanika200721.github.io/Quize-Application/
-
-### Group Projects
-Cybersecurity Learning Platform: **Safe Cyber**
 
 
 <h3 align="left">Tech Stack:</h3>
