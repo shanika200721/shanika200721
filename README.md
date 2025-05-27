@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript, CSS, Python , SQL**
 
 - 📫 How to reach me **shanika.uok2@gmail.com**
-                      **https://shanika200721.github.io/Portfolio/**
+- 📫 my portfolio **https://shanika200721.github.io/Portfolio/**
 
 - ⚡ Fun fact **I ride the bicycle when I’m not coding**
 
